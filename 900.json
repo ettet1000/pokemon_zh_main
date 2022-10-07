@@ -1,0 +1,233 @@
+{"number":"900",
+"name":"Kleavor",
+"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/900.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/900_thumb.png"
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/900_main.png"},
+"types":["Bug","Rock"],"weaknesses":["Rock","Steel","Water"],
+"descriptions":["A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee."],
+"specie":"Axe","height":"89.0 kg (196.2 lbs)","weight":"1.8 m (5′11″)","breeding":{
+"egg":{"groups":["Bug"],"cycle":"Unknown"},"genders":[{"type":"MALE","percentage":"50%"},
+{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 Attack","catchRate":"115","baseFriendship":"","baseExp":"",
+"growthRate":"Medium Fast"},"abilities":[{"name":"Unnerve","description":"Unnerves opposing Pokémon and makes them unable to eat Berries."}],
+"typesEffectiveness":{"Normal":"½","Fire":"1","Water":"2","Electric":"1","Grass":"1","Ice":"1","Fighting":"1","Poison":"½"
+,"Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"2","Fairy":"1"},
+"evolutionChain":[
+{"number":"123","name":"Scyther","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/123.png"
+,"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/123.png","type":"FIRST"},
+{"number":"900","name":"Kleavor","imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/900.png"
+,"thumbUrl":"https://ettet1000.github.io/pokemon_ko_main/images/900_thumb.png","type":"LAST"
+,"requirement":"Black Augurite"}
+],
+"previousEvolutions":[
+{"number":"123","name":"Scyther","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/123.png"
+,"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/123.png","type":"FIRST"}],
+"nextEvolutions":[],"superEvolutions":[],
+"baseStats":{"hp":70,"attack":135,"defense":95,"spAtk":45,"spDef":70,"speed":85,"total":500},
+"cards":[{"number":"85","name":"Kleavor","expansionName":"Astral Radiance"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_85.png"},
+{"number":"86","name":"Kleavor","expansionName":"Astral Radiance Trainer Gallery"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_86.png"},
+{"number":"87","name":"Kleavor V","expansionName":"Sword & Shield Promo"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_87.png"},
+{"number":"TG08","name":"Kleavor","expansionName":"Astral Radiance Trainer Gallery"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_TG08.png"},
+{"number":"SWSH248","name":"Kleavor V","expansionName":"Sword & Shield Promo"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSHP_EN_SWSH248.png"},
+{"number":"SWSH249","name":"Kleavor VSTAR","expansionName":"Sword & Shield Promo"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSHP_EN_SWSH249.png"}
+],
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/900 Kleavor.ogg","moves":{
+"levelUp":[
+    {
+        "level": 1,
+        "move": "Quick Attack",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "40",
+        "accuracy": "100"
+    },
+    {
+        "level": 6,
+        "move": "Silver Wind",
+        "type": "Bug",
+        "category": "Special",
+        "power": "60",
+        "accuracy": "100"
+    },
+    {
+        "level": 11,
+        "move": "Aerial Ace",
+        "type": "Flying",
+        "category": "Physical",
+        "power": "60",
+        "accuracy": "—"
+    },
+    {
+        "level": 14,
+        "move": "Double Hit",
+        "type": "Normal",
+        "category": "Status",
+        "power": "—",
+        "accuracy": "—"
+    },
+    {
+        "level": 14,
+        "move": "Stealth Rock",
+        "type": "Rock",
+        "category": "Physical",
+        "power": "40",
+        "accuracy": "100"
+    },
+    {
+        "level": 18,
+        "move": "Air Slash",
+        "type": "Flying",
+        "category": "Special",
+        "power": "75",
+        "accuracy": "95"
+    },
+    {
+        "level": 25,
+        "move": "Swords Dance",
+        "type": "Normal",
+        "category": "Status",
+        "power": "—",
+        "accuracy": "—"
+    },
+    {
+        "level": 29,
+        "move": "Stone Axe",
+        "type": "Rock",
+        "category": "Physical",
+        "power": "65",
+        "accuracy": "90"
+    },
+    {
+        "level": 34,
+        "move": "X-Scissor",
+        "type": "Bug",
+        "category": "Physical",
+        "power": "80",
+        "accuracy": "100"
+    },
+    {
+        "level": 43,
+        "move": "Close Combat",
+        "type": "Fighting",
+        "category": "Physical",
+        "power": "100",
+        "accuracy": "100"
+    }
+],
+"technicalMachine":[],
+"technicalRecords":[]
+,"egg":[]
+,"tutor":[
+    {
+        "move": "Aerial Ace",
+        "type": "Flying",
+        "category": "Physical",
+        "power": "60",
+        "accuracy": "—"
+    },
+    {
+        "move": "Calm Mind",
+        "type": "Psychic",
+        "category": "Status",
+        "power": "—",
+        "accuracy": "—"
+    },
+    {
+        "move": "False Swipe",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "40",
+        "accuracy": "100"
+    },
+    {
+        "move": "Focus Energy",
+        "type": "Normal",
+        "category": "Status",
+        "power": "—",
+        "accuracy": "—"
+    },
+    {
+        "move": "Giga Impact",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "120",
+        "accuracy": "90"
+    },
+    {
+        "move": "Hyper Beam",
+        "type": "Normal",
+        "category": "Special",
+        "power": "120",
+        "accuracy": "90"
+    },
+    {
+        "move": "Ominous Wind",
+        "type": "Ghost",
+        "category": "Special",
+        "power": "60",
+        "accuracy": "100"
+    },
+    {
+        "move": "Psycho Cut",
+        "type": "Psychic",
+        "category": "Physical",
+        "power": "70",
+        "accuracy": "100"
+    },
+    {
+        "move": "Rest",
+        "type": "Psychic",
+        "category": "Status",
+        "power": "—",
+        "accuracy": "—"
+    },
+    {
+        "move": "Rock Slide",
+        "type": "Rock",
+        "category": "Physical",
+        "power": "75",
+        "accuracy": "90"
+    },
+    {
+        "move": "Rock Smash",
+        "type": "Fighting",
+        "category": "Physical",
+        "power": "40",
+        "accuracy": "100"
+    },
+    {
+        "move": "Stealth Rock",
+        "type": "Rock",
+        "category": "Physical",
+        "power": "40",
+        "accuracy": "100"
+    },
+    {
+        "move": "Stone Edge",
+        "type": "Rock",
+        "category": "Physical",
+        "power": "100",
+        "accuracy": "80"
+    },
+    {
+        "move": "Swift",
+        "type": "Normal",
+        "category": "Special",
+        "power": "60",
+        "accuracy": "—"
+    },
+    {
+        "move": "X-Scissor",
+        "type": "Bug",
+        "category": "Physical",
+        "power": "80",
+        "accuracy": "100"
+    }
+]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

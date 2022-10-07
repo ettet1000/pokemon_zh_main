@@ -1,0 +1,199 @@
+{"number":"905",
+"name":"Enamorus",
+"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/905.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/905_thumb.png"
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/905_main.png"},
+"types":["Fairy","Flying"],"weaknesses":["Poison","Rock","Steel","Electric","Ice"],
+"descriptions":["When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui."],
+"specie":"Love-Hate","height":"48.0 kg (105.8 lbs)","weight":"1.6 m (5′03″)","breeding":{
+"egg":{"groups":["Undiscovered"],"cycle":"30840 steps"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
+"training":{"evYield":"3 Special Attack","catchRate":"","baseFriendship":"","baseExp":"",
+"growthRate":"Slow"},"abilities":[{"name":"Unnerve","description":"Unnerves opposing Pokémon and makes them unable to eat Berries."}],
+"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"2","Grass":"½","Ice":"2","Fighting":"¼","Poison":"2"
+,"Ground":"","Flying":"1","Psychic":"1","Bug":"¼","Rock":"2","Ghost":"1","Dragon":"","Dark":"½","Steel":"2","Fairy":"1"},
+"evolutionChain":[
+{"number":"905","name":"Enamorus","imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/905.png"
+,"thumbUrl":"https://ettet1000.github.io/pokemon_ko_main/images/905_thumb.png","type":"FIRST"}
+],
+"previousEvolutions":[],
+"nextEvolutions":[],"superEvolutions":[],
+"baseStats":{"hp":74,"attack":115,"defense":70,"spAtk":135,"spDef":80,"speed":106,"total":580},
+"cards":[{"number":"178","name":"Enamorus","expansionName":"Lost Origin"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH11_EN_178.png"},
+{"number":"TG18","name":"Enamorus","expansionName":"Lost Origin"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH11_EN_TG18.png"},
+{"number":"82","name":"Enamorus V","expansionName":"Lost Origin"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH11_EN_82.png"}
+],
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/905 Enamorus (Incarnate).ogg","moves":{
+"levelUp":[
+    {
+        "level": 1,
+        "move":"Tackle",
+        "type":"Normal",
+        "category":"Physical",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "level": 7,
+        "move":"Bite",
+        "type":"Dark",
+        "category":"Physical",
+        "power":"60",
+        "accuracy":"100"
+     },
+     {
+        "level": 11,
+        "move":"Twister",
+        "type":"Dragon",
+        "category":"Special",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "level": 14,
+        "move":"Draining Kiss",
+        "type":"Fairy",
+        "category":"Special",
+        "power":"50",
+        "accuracy":"100"
+     },
+     {
+        "level": 22,
+        "move":"Iron Defense",
+        "type":"Steel",
+        "category":"Status",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "level": 31,
+        "move":"Extrasensory",
+        "type":"Psychic",
+        "category":"Special",
+        "power":"70",
+        "accuracy":"100"
+     },
+     {
+        "level": 41,
+        "move":"Crunch",
+        "type":"Dark",
+        "category":"Physical",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "level": 47,
+        "move":"Moonblast",
+        "type":"Fairy",
+        "category":"Special",
+        "power":"85",
+        "accuracy":"100"
+     },
+     {
+        "level": 52,
+        "move":"Springtide Storm",
+        "type":"Fairy",
+        "category":"Special",
+        "power":"95",
+        "accuracy":"80"
+     }
+],
+"technicalMachine":[],
+"technicalRecords":[]
+,"egg":[]
+,"tutor":[
+    {
+        "move":"Calm Mind",
+        "type":"Psychic",
+        "category":"Status",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "move":"Dazzling Gleam",
+        "type":"Fairy",
+        "category":"Special",
+        "power":"75",
+        "accuracy":"100"
+     },
+     {
+        "move":"Earth Power",
+        "type":"Ground",
+        "category":"Special",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"Giga Impact",
+        "type":"Normal",
+        "category":"Physical",
+        "power":"120",
+        "accuracy":"90"
+     },
+     {
+        "move":"Hyper Beam",
+        "type":"Normal",
+        "category":"Special",
+        "power":"120",
+        "accuracy":"90"
+     },
+     {
+        "move":"Mystical Fire",
+        "type":"Fire",
+        "category":"Special",
+        "power":"70",
+        "accuracy":"100"
+     },
+     {
+        "move":"Play Rough",
+        "type":"Fairy",
+        "category":"Physical",
+        "power":"85",
+        "accuracy":"90"
+     },
+     {
+        "move":"Power Shift",
+        "type":"Normal",
+        "category":"Status",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "move":"Psychic",
+        "type":"Psychic",
+        "category":"Special",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"Rest",
+        "type":"Psychic",
+        "category":"Status",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "move":"Rock Smash",
+        "type":"Fighting",
+        "category":"Physical",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "move":"Sludge Bomb",
+        "type":"Poison",
+        "category":"Special",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"Zen Headbutt",
+        "type":"Psychic",
+        "category":"Physical",
+        "power":"80",
+        "accuracy":"90"
+     }  
+]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

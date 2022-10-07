@@ -1,0 +1,241 @@
+{"number":"901",
+"name":"Ursaluna",
+"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/901.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/901_thumb.png"
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/901_main.png"},
+"types":["Ground","Normal"],"weaknesses":["Fighting","Water","Grass","Ice"],
+"descriptions":["I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will."],
+"specie":"Peat","height":"290.0 kg (639.3 lbs)","weight":"2.4 m (7′10″)","breeding":{
+"egg":{"groups":["Field"],"cycle":"5120 steps"},"genders":[{"type":"MALE","percentage":"50%"},
+{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"3 Attack","catchRate":"75","baseFriendship":"","baseExp":"",
+"growthRate":"Medium Fast"},"abilities":[{"name":"Unnerve","description":"Unnerves opposing Pokémon and makes them unable to eat Berries."}],
+"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"2","Electric":"","Grass":"2","Ice":"2","Fighting":"2","Poison":"½"
+,"Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"½","Ghost":"","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},
+"evolutionChain":[
+{"number":"216","name":"Teddiursa","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/216.png",
+"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/216.png","type":"FIRST"},
+{"number":"217","name":"Ursaring","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/217.png",
+"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/217.png","type":"MIDDLE",
+"requirement":"Level 30"},
+{"number":"901","name":"Ursaluna","imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/901.png"
+,"thumbUrl":"https://ettet1000.github.io/pokemon_ko_main/images/901_thumb.png","type":"LAST"
+,"requirement":"Use a Peat Block during a full moon"}
+],
+"previousEvolutions":[
+    {"number":"216","name":"Teddiursa","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/216.png",
+    "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/216.png","type":"FIRST"},
+    {"number":"217","name":"Ursaring","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/217.png",
+    "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/217.png","type":"MIDDLE",
+    "requirement":"Level 30"}],
+"nextEvolutions":[],"superEvolutions":[],
+"baseStats":{"hp":130,"attack":140,"defense":105,"spAtk":45,"spDef":80,"speed":50,"total":550},
+"cards":[{"number":"124","name":"Ursaluna","expansionName":"Sword & Shield Promo"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_124.png"}
+],
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/901 Ursaluna.ogg","moves":{
+"levelUp":[
+    {
+        "level": 1,
+        "move":"Tackle",
+        "type":"Normal",
+        "category":"Physical",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "level": 6,
+        "move":"Baby-Doll Eyes",
+        "type":"Fairy",
+        "category":"Status",
+        "power":"—",
+        "accuracy":"100"
+     },
+     {
+        "level": 11,
+        "move":"Bulldoze",
+        "type":"Ground",
+        "category":"Physical",
+        "power":"60",
+        "accuracy":"100"
+     },
+     {
+        "level": 18,
+        "move":"Slash",
+        "type":"Normal",
+        "category":"Physical",
+        "power":"70",
+        "accuracy":"100"
+     },
+     {
+        "level": 25,
+        "move":"Play Rough",
+        "type":"Fairy",
+        "category":"Physical",
+        "power":"85",
+        "accuracy":"90"
+     },
+     {
+        "level": 34,
+        "move":"High Horsepower",
+        "type":"Ground",
+        "category":"Physical",
+        "power":"85",
+        "accuracy":"95"
+     },
+     {
+        "level": 43,
+        "move":"Double-Edge",
+        "type":"Normal",
+        "category":"Physical",
+        "power":"100",
+        "accuracy":"100"
+     },
+     {
+        "level": 43,
+        "move":"Headlong Rush",
+        "type":"Ground",
+        "category":"Physical",
+        "power":"100",
+        "accuracy":"100"
+     }
+],
+"technicalMachine":[],
+"technicalRecords":[]
+,"egg":[]
+,"tutor":[
+    {
+        "move":"Aerial Ace",
+        "type":"Flying",
+        "category":"Physical",
+        "power":"60",
+        "accuracy":"—"
+     },
+     {
+        "move":"Baby-Doll Eyes",
+        "type":"Fairy",
+        "category":"Status",
+        "power":"—",
+        "accuracy":"100"
+     },
+     {
+        "move":"Bulk Up",
+        "type":"Fighting",
+        "category":"Status",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "move":"Bulldoze",
+        "type":"Ground",
+        "category":"Physical",
+        "power":"60",
+        "accuracy":"100"
+     },
+     {
+        "move":"Earth Power",
+        "type":"Ground",
+        "category":"Special",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"Fire Punch",
+        "type":"Fire",
+        "category":"Physical",
+        "power":"75",
+        "accuracy":"100"
+     },
+     {
+        "move":"Focus Energy",
+        "type":"Normal",
+        "category":"Status",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "move":"Giga Impact",
+        "type":"Normal",
+        "category":"Physical",
+        "power":"120",
+        "accuracy":"90"
+     },
+     {
+        "move":"High Horsepower",
+        "type":"Ground",
+        "category":"Physical",
+        "power":"85",
+        "accuracy":"95"
+     },
+     {
+        "move":"Hyper Beam",
+        "type":"Normal",
+        "category":"Special",
+        "power":"120",
+        "accuracy":"90"
+     },
+     {
+        "move":"Ice Punch",
+        "type":"Ice",
+        "category":"Physical",
+        "power":"75",
+        "accuracy":"100"
+     },
+     {
+        "move":"Play Rough",
+        "type":"Fairy",
+        "category":"Physical",
+        "power":"85",
+        "accuracy":"90"
+     },
+     {
+        "move":"Rest",
+        "type":"Psychic",
+        "category":"Status",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "move":"Rock Slide",
+        "type":"Rock",
+        "category":"Physical",
+        "power":"75",
+        "accuracy":"90"
+     },
+     {
+        "move":"Rock Smash",
+        "type":"Fighting",
+        "category":"Physical",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "move":"Shadow Claw",
+        "type":"Ghost",
+        "category":"Physical",
+        "power":"70",
+        "accuracy":"100"
+     },
+     {
+        "move":"Stone Edge",
+        "type":"Rock",
+        "category":"Physical",
+        "power":"100",
+        "accuracy":"80"
+     },
+     {
+        "move":"Swift",
+        "type":"Normal",
+        "category":"Special",
+        "power":"60",
+        "accuracy":"—"
+     },
+     {
+        "move":"Thunder Punch",
+        "type":"Electric",
+        "category":"Physical",
+        "power":"75",
+        "accuracy":"100"
+     }
+]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

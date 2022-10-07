@@ -1,0 +1,210 @@
+{"number":"902",
+"name":"Basculegion",
+"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/902.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/902_thumb.png"
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/902_main.png"},
+"types":["Water","Ghost"],"weaknesses":["Ghost","Grass","Electric","Dark"],
+"descriptions":["Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal."],
+"specie":"Big Fish","height":"110.0 kg (242.5 lbs)","weight":"3.0 m (9′10″)","breeding":{
+"egg":{"groups":["Water 2"],"cycle":"Unknown"},"genders":[{"type":"MALE","percentage":"50%"},
+{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 HP","catchRate":"135","baseFriendship":"","baseExp":"",
+"growthRate":"Medium Fast"},"abilities":[{"name":"Unnerve","description":"Unnerves opposing Pokémon and makes them unable to eat Berries."}],
+"typesEffectiveness":{"Normal":"","Fire":"½","Water":"½","Electric":"2","Grass":"2","Ice":"½","Fighting":"","Poison":"½"
+,"Ground":"1","Flying":"1","Psychic":"1","Bug":"½","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"½","Fairy":"1"},
+"evolutionChain":[
+{"number":"550","name":"Basculin","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/550.png"
+,"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/550.png","type":"FIRST"},
+{"number":"902","name":"Basculegion","imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/902.png"
+,"thumbUrl":"https://ettet1000.github.io/pokemon_ko_main/images/902_thumb.png","type":"LAST"
+,"requirement":"Lose at least 294 HP from recoil without fainting"}
+],
+"previousEvolutions":[
+{"number":"550","name":"Basculin","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/550.png"
+,"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/550.png","type":"FIRST"}],
+"nextEvolutions":[],"superEvolutions":[],
+"baseStats":{"hp":120,"attack":112,"defense":65,"spAtk":80,"spDef":75,"speed":78,"total":530},
+"cards":[{"number":"45","name":"Basculegion","expansionName":"Lost Origin"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH11_EN_45.png"},
+{"number":"44","name":"Basculegion","expansionName":"Astral Radiance Trainer Gallery"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_44.png"}
+],
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/902 Basculegion.ogg","moves":{
+"levelUp":[
+    {
+        "level": 1,
+        "move":"Tackle",
+        "type":"Normal",
+        "category":"Physical",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "level": 6,
+        "move":"Aqua Jet",
+        "type":"Water",
+        "category":"Physical",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "level": 11,
+        "move":"Bite",
+        "type":"Dark",
+        "category":"Physical",
+        "power":"60",
+        "accuracy":"100"
+     },
+     {
+        "level": 11,
+        "move":"Hex",
+        "type":"Ghost",
+        "category":"Special",
+        "power":"65",
+        "accuracy":"100"
+     },
+     {
+        "level": 18,
+        "move":"Zen Headbutt",
+        "type":"Psychic",
+        "category":"Physical",
+        "power":"80",
+        "accuracy":"90"
+     },
+     {
+        "level": 25,
+        "move":"Crunch",
+        "type":"Dark",
+        "category":"Physical",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "level": 25,
+        "move":"Shadow Ball",
+        "type":"Ghost",
+        "category":"Special",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "level": 34,
+        "move":"Wave Crash",
+        "type":"Water",
+        "category":"Physical",
+        "power":"75",
+        "accuracy":"100"
+     },
+     {
+        "level": 43,
+        "move":"Double-Edge",
+        "type":"Normal",
+        "category":"Physical",
+        "power":"100",
+        "accuracy":"100"
+     }
+],
+"technicalMachine":[],
+"technicalRecords":[]
+,"egg":[]
+,"tutor":[
+    {
+        "move":"Aqua Tail",
+        "type":"Water",
+        "category":"Physical",
+        "power":"85",
+        "accuracy":"90"
+     },
+     {
+        "move":"Calm Mind",
+        "type":"Psychic",
+        "category":"Status",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "move":"Giga Impact",
+        "type":"Normal",
+        "category":"Physical",
+        "power":"120",
+        "accuracy":"90"
+     },
+     {
+        "move":"Hyper Beam",
+        "type":"Normal",
+        "category":"Special",
+        "power":"120",
+        "accuracy":"90"
+     },
+     {
+        "move":"Ice Beam",
+        "type":"Ice",
+        "category":"Special",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"Ice Fang",
+        "type":"Ice",
+        "category":"Physical",
+        "power":"65",
+        "accuracy":"95"
+     },
+     {
+        "move":"Icy Wind",
+        "type":"Ice",
+        "category":"Special",
+        "power":"60",
+        "accuracy":"100"
+     },
+     {
+        "move":"Ominous Wind",
+        "type":"Ghost",
+        "category":"Special",
+        "power":"60",
+        "accuracy":"100"
+     },
+     {
+        "move":"Psychic",
+        "type":"Psychic",
+        "category":"Special",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"Rest",
+        "type":"Psychic",
+        "category":"Status",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "move":"Shadow Ball",
+        "type":"Ghost",
+        "category":"Special",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"Swift",
+        "type":"Normal",
+        "category":"Special",
+        "power":"60",
+        "accuracy":"—"
+     },
+     {
+        "move":"Water Pulse",
+        "type":"Water",
+        "category":"Special",
+        "power":"60",
+        "accuracy":"—"
+     },
+     {
+        "move":"Zen Headbutt",
+        "type":"Psychic",
+        "category":"Physical",
+        "power":"80",
+        "accuracy":"90"
+     }  
+]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}
