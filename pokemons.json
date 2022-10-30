@@ -9879,6 +9879,822 @@
     ],
     "specie": "Love-Hate",
     "generation": "GENERATION_VIII"
-    }
+    },
+{
+"number": "2000",
+"name": "Rattata",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2000.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2000_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2000_main.png"
+},
+"types": [
+"Dark",
+"Normal"
+],
+"specie": "쥐",
+"generation": "ALOLA"
+},
+{
+"number": "2001",
+"name": "Raticate",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2001.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2001_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2001_main.png"
+},
+"types": [
+"Dark",
+"Normal"
+],
+"specie": "쥐",
+"generation": "ALOLA"
+},
+{
+"number": "2002",
+"name": "Raichu",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2002.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2002_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2002_main.png"
+},
+"types": [
+"Electric",
+"Psychic"
+],
+"specie": "전기쥐",
+"generation": "ALOLA"
+},
+{
+"number": "2003",
+"name": "Sandshrew",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2003.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2003_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2003_main.png"
+},
+"types": [
+"Ice",
+"Steel"
+],
+"specie": "쥐",
+"generation": "ALOLA"
+},
+{
+"number": "2004",
+"name": "Sandslash",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2004.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2004_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2004_main.png"
+},
+"types": [
+"Ice",
+"Steel"
+],
+"specie": "쥐",
+"generation": "ALOLA"
+},
+{
+"number": "2005",
+"name": "Vulpix",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2005.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2005_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2005_main.png"
+},
+"types": [
+"Ice"
+],
+"specie": "여우",
+"generation": "ALOLA"
+},
+{
+"number": "2006",
+"name": "Ninetales",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2006.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2006_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2006_main.png"
+},
+"types": [
+"Ice",
+"Fairy"
+],
+"specie": "여우",
+"generation": "ALOLA"
+},
+{
+"number": "2007",
+"name": "Diglett",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2007.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2007_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2007_main.png"
+},
+"types": [
+"Ground",
+"Steel"
+],
+"specie": "두더지",
+"generation": "ALOLA"
+},
+{
+"number": "2008",
+"name": "Dugtrio",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2008.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2008_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2008_main.png"
+},
+"types": [
+"Ground",
+"Steel"
+],
+"specie": "두더지",
+"generation": "ALOLA"
+},
+{
+"number": "2009",
+"name": "Meowth",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2009.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2009_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2009_main.png"
+},
+"types": [
+"Dark"
+],
+"specie": "요괴고양이",
+"generation": "ALOLA"
+},
+{
+"number": "2010",
+"name": "Meowth",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2010.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2010_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2010_main.png"
+},
+"types": [
+"Steel"
+],
+"specie": "요괴고양이",
+"generation": "GALAR"
+},
+{
+"number": "2011",
+"name": "Persian",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2011.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2011_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2011_main.png"
+},
+"types": [
+"Dark"
+],
+"specie": "샴고양이",
+"generation": "ALOLA"
+},
+{
+"number": "2012",
+"name": "Growlithe",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2012.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2012_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2012_main.png"
+},
+"types": [
+"Fire",
+"Rock"
+],
+"specie": "강아지",
+"generation": "HISUI"
+},
+{
+"number": "2013",
+"name": "Arcanine",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2013.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2013_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2013_main.png"
+},
+"types": [
+"Fire",
+"Rock"
+],
+"specie": "전설",
+"generation": "HISUI"
+},
+{
+"number": "2014",
+"name": "Geodude",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2014.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2014_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2014_main.png"
+},
+"types": [
+"Rock",
+"Electric"
+],
+"specie": "암석",
+"generation": "ALOLA"
+},
+{
+"number": "2015",
+"name": "Graveler",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2015.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2015_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2015_main.png"
+},
+"types": [
+"Rock",
+"Electric"
+],
+"specie": "암석",
+"generation": "ALOLA"
+},
+{
+"number": "2016",
+"name": "Golem",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2016.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2016_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2016_main.png"
+},
+"types": [
+"Rock",
+"Electric"
+],
+"specie": "메가톤",
+"generation": "ALOLA"
+},
+{
+"number": "2017",
+"name": "Ponyta",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2017.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2017_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2017_main.png"
+},
+"types": [
+"Psychic"
+],
+"specie": "불의말",
+"generation": "GALAR"
+},
+{
+"number": "2018",
+"name": "Rapidash",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2018.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2018_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2018_main.png"
+},
+"types": [
+"Psychic",
+"Fairy"
+],
+"specie": "불의말",
+"generation": "GALAR"
+},
+{
+"number": "2019",
+"name": "Farfetch'd",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2019.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2019_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2019_main.png"
+},
+"types": [
+"Fighting"
+],
+"specie": "청둥오리",
+"generation": "GALAR"
+},
+{
+"number": "2020",
+"name": "Grimer",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2020.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2020_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2020_main.png"
+},
+"types": [
+"Poison",
+"Dark"
+],
+"specie": "진흙",
+"generation": "ALOLA"
+},
+{
+"number": "2021",
+"name": "Muk",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2021.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2021_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2021_main.png"
+},
+"types": [
+"Poison",
+"Dark"
+],
+"specie": "진흙",
+"generation": "ALOLA"
+},
+{
+"number": "2022",
+"name": "Exeggutor",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2022.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2022_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2022_main.png"
+},
+"types": [
+"Grass",
+"Dragon"
+],
+"specie": "야자나무",
+"generation": "ALOLA"
+},
+{
+"number": "2023",
+"name": "Marowak",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2023.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2023_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2023_main.png"
+},
+"types": [
+"Fire",
+"Ghost"
+],
+"specie": "뼈다귀",
+"generation": "ALOLA"
+},
+{
+"number": "2024",
+"name": "Weezing",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2024.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2024_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2024_main.png"
+},
+"types": [
+"Poison",
+"Fairy"
+],
+"specie": "독가스",
+"generation": "GALAR"
+},
+{
+"number": "2025",
+"name": "Mr. Mime",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2025.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2025_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2025_main.png"
+},
+"types": [
+"Ice",
+"Psychic"
+],
+"specie": "배리어",
+"generation": "GALAR"
+},
+{
+"number": "2026",
+"name": "Typhlosion",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2026.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2026_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2026_main.png"
+},
+"types": [
+"Fire",
+"Ghost"
+],
+"specie": "두더지",
+"generation": "HISUI"
+},
+{
+"number": "2027",
+"name": "Corsola",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2027.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2027_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2027_main.png"
+},
+"types": [
+"Water",
+"Rock"
+],
+"specie": "산호",
+"generation": "GALAR"
+},
+{
+"number": "2028",
+"name": "Zigzagoon",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2028.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2028_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2028_main.png"
+},
+"types": [
+"Dark",
+"Normal"
+],
+"specie": "앙증너구리",
+"generation": "GALAR"
+},
+{
+"number": "2029",
+"name": "Linoone",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2029.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2029_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2029_main.png"
+},
+"types": [
+"Dark",
+"Normal"
+],
+"specie": "돌진",
+"generation": "GALAR"
+},
+{
+"number": "2030",
+"name": "Samurott",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2030.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2030_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2030_main.png"
+},
+"types": [
+"Water",
+"Dark"
+],
+"specie": "관록",
+"generation": "HISUI"
+},
+{
+"number": "2031",
+"name": "Darumaka",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2031.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2031_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2031_main.png"
+},
+"types": [
+"Ice"
+],
+"specie": "달마",
+"generation": "GALAR"
+},
+{
+"number": "2032",
+"name": "Darmanitan",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2032.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2032_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2032_main.png"
+},
+"types": [
+"Ice"
+],
+"specie": "달마",
+"generation": "GALAR"
+},
+{
+"number": "2033",
+"name": "Darmanitan",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2033.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2033_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2033_main.png"
+},
+"types": [
+"Ice",
+"Fire"
+],
+"specie": "달마",
+"generation": "GALAR"
+},
+{
+"number": "2034",
+"name": "Yamask",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2034.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2034_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2034_main.png"
+},
+"types": [
+"Ground",
+"Ghost"
+],
+"specie": "영혼",
+"generation": "GALAR"
+},
+{
+"number": "2035",
+"name": "Stunfisk",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2035.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2035_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2035_main.png"
+},
+"types": [
+"Ground",
+"Steel"
+],
+"specie": "두더지",
+"generation": "GALAR"
+},
+{
+"number": "2036",
+"name": "Decidueye",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2036.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2036_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2036_main.png"
+},
+"types": [
+"Grass",
+"Fighting"
+],
+"specie": "화살깃",
+"generation": "HISUI"
+},
+{
+"number": "2037",
+"name": "Slowpoke",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2037.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2037_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2037_main.png"
+},
+"types": [
+"Psychic"
+],
+"specie": "얼간이",
+"generation": "GALAR"
+},
+{
+"number": "2038",
+"name": "Slowbro",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2038.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2038_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2038_main.png"
+},
+"types": [
+"Poison",
+"Psychic"
+],
+"specie": "기생",
+"generation": "GALAR"
+},
+{
+"number": "2039",
+"name": "Articuno",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2039.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2039_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2039_main.png"
+},
+"types": [
+"Psychic",
+"Flying"
+],
+"specie": "냉혹",
+"generation": "GALAR"
+},
+{
+"number": "2040",
+"name": "Zapdos",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2040.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2040_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2040_main.png"
+},
+"types": [
+"Fighting",
+"Flying"
+],
+"specie": "건각",
+"generation": "GALAR"
+},
+{
+"number": "2041",
+"name": "Moltres",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2041.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2041_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2041_main.png"
+},
+"types": [
+"Dark",
+"Flying"
+],
+"specie": "사악",
+"generation": "GALAR"
+},
+{
+"number": "2042",
+"name": "Slowking",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2042.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2042_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2042_main.png"
+},
+"types": [
+"Poison",
+"Psychic"
+],
+"specie": "술사",
+"generation": "GALAR"
+},
+{
+"number": "2043",
+"name": "Voltorb",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2043.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2043_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2043_main.png"
+},
+"types": [
+"Electric",
+"Grass"
+],
+"specie": "구체",
+"generation": "HISUI"
+},
+{
+"number": "2044",
+"name": "Electrode",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2044.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2044_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2044_main.png"
+},
+"types": [
+"Electric",
+"Grass"
+],
+"specie": "구체",
+"generation": "HISUI"
+},
+{
+"number": "2045",
+"name": "Qwilfish",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2045.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2045_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2045_main.png"
+},
+"types": [
+"Water",
+"Poison"
+],
+"specie": "풍선",
+"generation": "HISUI"
+},
+{
+"number": "2046",
+"name": "Sneasel",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2046.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2046_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2046_main.png"
+},
+"types": [
+"Fighting",
+"Poison"
+],
+"specie": "갈고리손톱",
+"generation": "HISUI"
+},
+{
+"number": "2047",
+"name": "Lilligant",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2047.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2047_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2047_main.png"
+},
+"types": [
+"Grass",
+"Fighting"
+],
+"specie": "스핀",
+"generation": "HISUI"
+},
+{
+"number": "2048",
+"name": "Zorua",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2048.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2048_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2048_main.png"
+},
+"types": [
+"Normal",
+"Ghost"
+],
+"specie": "원한여우",
+"generation": "HISUI"
+},
+{
+"number": "2049",
+"name": "Zoroark",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2049.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2049_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2049_main.png"
+},
+"types": [
+"Normal",
+"Ghost"
+],
+"specie": "저주여우",
+"generation": "HISUI"
+},
+{
+"number": "2050",
+"name": "Braviary",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2050.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2050_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2050_main.png"
+},
+"types": [
+"Psychic",
+"Flying"
+],
+"specie": "용맹",
+"generation": "HISUI"
+},
+{
+"number": "2051",
+"name": "Sliggoo",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2051.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2051_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2051_main.png"
+},
+"types": [
+"Steel",
+"Dragon"
+],
+"specie": "연체",
+"generation": "HISUI"
+},
+{
+"number": "2052",
+"name": "Goodra",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2052.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2052_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2052_main.png"
+},
+"types": [
+"Steel",
+"Dragon"
+],
+"specie": "드래곤",
+"generation": "HISUI"
+},
+{
+"number": "2053",
+"name": "Avalugg",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2053.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2053_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2053_main.png"
+},
+"types": [
+"Ice",
+"Rock"
+],
+"specie": "빙산",
+"generation": "HISUI"
+},
+{
+"number": "2054",
+"name": "Wooper",
+"imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2054.png",
+"thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/2054_thumb.png",
+"sprites": {
+"mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/2054_main.png"
+},
+"types": [
+"Poison",
+"Ground"
+],
+"specie": "독물고기",
+"generation": "PALDEA"
+}
     ]
     
