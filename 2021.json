@@ -1,0 +1,191 @@
+{"number":"2021","name":"Muk",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2021.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/2021_thumb.png",
+"sprites":{
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2021_main.png",
+"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2021.gif",
+"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2021.gif",
+"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2021.gif",
+"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2021.gif"},
+"types":["Poison","Dark"],"weaknesses":["Psychic","Ground"],
+"descriptions":["Muk's coloration becomes increasingly vivid the more it feasts on its favorite dish–trash."],
+"specie":"Sludge","height":"52.0 kg (114.6 lbs)","weight":"1.0 m (3′03″)","breeding":{
+"egg":{"groups":["Amorphous"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 HP, 1 Attack","catchRate":"75 (9.8% with PokéBall, full HP)","baseFriendship":"50 (Normal)","baseExp":"175",
+"growthRate":"Medium Fast"},
+"abilities":[{"name":"Poison Touch","description":"악취 때문에 상대가 풀죽을 때가 있다."},{"name":"Gluttony","description":"달라붙어서 도구를 지킨다."}],
+"typesEffectiveness":{
+"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"1","Poison":"½","Ground":"2","Flying":"1","Psychic":"0","Bug":"1","Rock":"1","Ghost":"½","Dragon":"1","Dark":"½","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"2020","name":"Grimer",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2020.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2020_thumb.png","type":"FIRST"},{"number":"2021","name":"Muk",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2021.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2021_thumb.png","type":"LAST",
+"requirement":"Level 38"}],"previousEvolutions":[{"number":"2020","name":"Grimer",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2020.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2020_thumb.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],
+"baseStats":{"hp":105,"attack":105,"defense":75,"spAtk":65,"spDef":100,"speed":50,"total":500},"cards":[{"number":"101","name":"Muk","expansionName":"Darkness Ablaze",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SWSH3_EN_101.png"},{"number":"131","name":"Alolan Muk","expansionName":"Cosmic Eclipse",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM12_EN_131.png"},{"number":"196","name":"Muk & Alolan Muk-GX","expansionName":"Unbroken Bonds",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM10_EN_196.png"},{"number":"197","name":"Muk & Alolan Muk-GX","expansionName":"Unbroken Bonds",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM10_EN_197.png"},{"number":"220","name":"Muk & Alolan Muk-GX","expansionName":"Unbroken Bonds",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM10_EN_220.png"},{"number":"61","name":"Muk & Alolan Muk-GX","expansionName":"Unbroken Bonds",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM10_EN_61.png"},{"number":"63","name":"Muk","expansionName":"Team Up",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM9_EN_63.png"},{"number":"84","name":"Alolan Muk","expansionName":"Team Up",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM9_EN_84.png"},{"number":"138","name":"Alolan Muk-GX","expansionName":"Burning Shadows",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM3_EN_138.png"},{"number":"157","name":"Alolan Muk-GX","expansionName":"Burning Shadows",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM3_EN_157.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/089.mp3","moves":{
+"levelUp":[{"level":1,"category":"Status","move":"Harden","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"Status","move":"Haze","type":"Ice","power":"—","accuracy":"—"}
+,{"level":1,"category":"Status","move":"Minimize","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"Special","move":"Moonblast","type":"Fairy","power":"95","accuracy":"100"}
+,{"level":1,"category":"Status","move":"Poison Gas","type":"Poison","power":"—","accuracy":"90"}
+,{"level":1,"category":"Physical","move":"Pound","type":"Normal","power":"40","accuracy":"100"}
+,{"level":6,"category":"Status","move":"Harden","type":"Normal","power":"—","accuracy":"—"}
+,{"level":12,"category":"Status","move":"Minimize","type":"Normal","power":"—","accuracy":"—"}
+,{"level":18,"category":"Status","move":"Disable","type":"Normal","power":"—","accuracy":"100"}
+,{"level":24,"category":"Physical","move":"Bite","type":"Dark","power":"60","accuracy":"100"}
+,{"level":30,"category":"Status","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
+,{"level":36,"category":"Physical","move":"Crunch","type":"Dark","power":"80","accuracy":"100"}
+,{"level":48,"category":"Status","move":"Acid Armor","type":"Poison","power":"—","accuracy":"—"}
+,{"level":60,"category":"Special","move":"Sludge Bomb","type":"Poison","power":"90","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"Physical","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":2,"category":"Status","move":"Taunt","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":3,"category":"Status","move":"Helping Hand","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":5,"category":"Status","move":"Rest","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":7,"category":"Status","move":"Protect","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":8,"category":"Status","move":"Substitute","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":10,"category":"Physical","move":"Dig","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":12,"category":"Physical","move":"Facade","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":13,"category":"Physical","move":"Brick Break","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":20,"category":"Special","move":"Dark Pulse","type":"Dark","power":"80","accuracy":"100"}
+,{"technicalMachine":21,"category":"Physical","move":"Foul Play","type":"Dark","power":"95","accuracy":"100"}
+,{"technicalMachine":22,"category":"Physical","move":"Rock Slide","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":23,"category":"Physical","move":"Thunder Punch","type":"Electric","power":"75","accuracy":"100"}
+,{"technicalMachine":26,"category":"Physical","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"}
+,{"technicalMachine":27,"category":"Status","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":31,"category":"Physical","move":"Fire Punch","type":"Fire","power":"75","accuracy":"100"}
+,{"technicalMachine":35,"category":"Physical","move":"Ice Punch","type":"Ice","power":"75","accuracy":"100"}
+,{"technicalMachine":37,"category":"Special","move":"Flamethrower","type":"Fire","power":"90","accuracy":"100"}
+,{"technicalMachine":42,"category":"Physical","move":"Self-Destruct","type":"Normal","power":"200","accuracy":"100"}
+,{"technicalMachine":43,"category":"Special","move":"Shadow Ball","type":"Ghost","power":"80","accuracy":"100"}
+,{"technicalMachine":46,"category":"Special","move":"Fire Blast","type":"Fire","power":"110","accuracy":"85"}
+,{"technicalMachine":48,"category":"Special","move":"Hyper Beam","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":52,"category":"Special","move":"Sludge Bomb","type":"Poison","power":"90","accuracy":"100"}
+,{"technicalMachine":53,"category":"Special","move":"Mega Drain","type":"Grass","power":"40","accuracy":"100"}],"technicalRecords":[]
+,"egg":[
+    {"move":"Assurance",
+    "type":"Dark",
+    "category":"Physical",
+    "power":"60",
+    "accuracy":"100"},
+    {"move":"Clear Smog",
+    "type":"Poison",
+    "category":"Special",
+    "power":"50",
+    "accuracy":"—"},
+    {"move":"Curse",
+    "type":"Ghost",
+    "category":"Status",
+    "power":"—",
+    "accuracy":"—"},
+    {"move":"Imprison",
+    "type":"Psychic",
+    "category":"Status",
+    "power":"—",
+    "accuracy":"—"},
+    {"move":"Mean Look",
+    "type":"Normal",
+    "category":"Status",
+    "power":"—",
+    "accuracy":"—"},
+    {"move":"Pursuit",
+    "type":"Dark",
+    "category":"Physical",
+    "power":"40",
+    "accuracy":"100"},
+    {"move":"Scary Face",
+    "type":"Normal",
+    "category":"Status",
+    "power":"—",
+    "accuracy":"100"},
+    {"move":"Shadow Sneak",
+    "type":"Ghost",
+    "category":"Physical",
+    "power":"40",
+    "accuracy":"100"},
+    {"move":"Spite",
+    "type":"Ghost",
+    "category":"Status",
+    "power":"—",
+    "accuracy":"100"},
+    {"move":"Spit Up",
+    "type":"Normal",
+    "category":"Special",
+    "power":"—",
+    "accuracy":"100"},
+    {"move":"Stockpile",
+    "type":"Normal",
+    "category":"Status",
+    "power":"—",
+    "accuracy":"—"},
+    {"move":"Swallow",
+    "type":"Normal",
+    "category":"Status",
+    "power":"—",
+    "accuracy":"—"},
+    {"move":"Power-Up Punch",
+    "type":"Fighting",
+    "category":"Physical",
+    "power":"40",
+    "accuracy":"100"}
+]
+,"tutor":[
+    {"move":"Giga Drain",
+    "type":"Grass",
+    "category":"Special",
+    "power":"75",
+    "accuracy":"100"},
+    {"move":"Ice Punch",
+    "type":"Ice",
+    "category":"Physical",
+    "power":"75",
+    "accuracy":"100"},
+    {"move":"Gunk Shot",
+    "type":"Poison",
+    "category":"Physical",
+    "power":"120",
+    "accuracy":"80"},
+    {"move":"Thunder Punch",
+    "type":"Electric",
+    "category":"Physical",
+    "power":"75",
+    "accuracy":"100"},
+    {"move":"Fire Punch",
+    "type":"Fire",
+    "category":"Physical",
+    "power":"75",
+    "accuracy":"100"},
+    {"move":"Block",
+    "type":"Normal",
+    "category":"Status",
+    "power":"—",
+    "accuracy":"—"},
+    {"move":"Pain Split",
+    "type":"Normal",
+    "category":"Status",
+    "power":"—",
+    "accuracy":"—"},
+    {"move":"Shock Wave",
+    "type":"Electric",
+    "category":"Special",
+    "power":"60",
+    "accuracy":"—"},
+    {"move":"Snore",
+    "type":"Normal",
+    "category":"Special",
+    "power":"50",
+    "accuracy":"100"},
+    {"move":"Focus Punch",
+    "type":"Fighting",
+    "category":"Physical",
+    "power":"150",
+    "accuracy":"100"}
+]
+,"evolution":[],"preEvolution":[]},"generation":"ALOLA"}

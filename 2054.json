@@ -1,0 +1,29 @@
+{"number":"2054","name":"Wooper",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2054.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/2054_thumb.png",
+"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2054_main.png"},
+"types":["Poison","Ground"],"weaknesses":["Grass"],
+"descriptions":["In the distant past, they lived in the waters of the paldea region, but they were pushed out of a territorial dispute and ended up living in the muddy waters of the land. Living on land, in order to keep them from drying out, toxic mucous membranes were put on their bodies."],
+"specie":"Poison Fish","height":"11.0 kg (24.3 lbs)","weight":"0.4 m (1′04″)","breeding":{
+"egg":{"groups":["Field","Water 1"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 HP","catchRate":"255 (33.3% with PokéBall, full HP)","baseFriendship":"50 (Normal)","baseExp":"42",
+"growthRate":"Medium Fast"},"abilities":[{"name":"Poison Point","description":"누구도 폭발 할 수 없게 된다."},{"name":"Water Absorb","description":"물을 받으면 회복한다."}],
+"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"2","Electric":"0","Grass":"1","Ice":"2","Fighting":"½","Poison":"¼","Ground":"2","Flying":"1","Psychic":"2","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"½"},
+"evolutionChain":[],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],
+"baseStats":{"hp":55,"attack":45,"defense":45,"spAtk":25,"spDef":25,"speed":15,"total":210},"cards":[{"number":"83","name":"Wooper","expansionName":"Vivid Voltage",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/194/SWSH4_EN_83.png"},{"number":"SV9","name":"Wooper","expansionName":"Yellow A Alternate",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/194/SMA_EN_SV9.png"},{"number":"96","name":"Wooper","expansionName":"Unbroken Bonds",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/194/SM10_EN_96.png"},{"number":"25","name":"Wooper","expansionName":"Dragon Majesty",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/194/SM75_EN_25.png"},{"number":"38","name":"Wooper","expansionName":"XY—Ancient Origins",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/194/XY7_EN_38.png"},{"number":"21","name":"Wooper","expansionName":"Black & White—Plasma Freeze",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/194/BW9_EN_21.png"},{"number":"88","name":"Wooper","expansionName":"HeartGold & SoulSilver",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/194/HGSS1_EN_88.png"},{"number":"81","name":"Wooper","expansionName":"EX Team Rocket Returns",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/194/EX7_EN_81.png"},{"number":"79","name":"Wooper","expansionName":"EX Unseen Forces",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/194/EX10_EN_79.png"},{"number":"71","name":"Wooper δ","expansionName":"EX Dragon Frontiers",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/194/EX15_EN_71.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/194.mp3","moves":{
+"levelUp":[]
+,"technicalMachine":[],"technicalRecords":[]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"PALDEA"}
